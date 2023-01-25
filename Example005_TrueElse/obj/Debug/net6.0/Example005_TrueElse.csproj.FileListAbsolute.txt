@@ -1,0 +1,15 @@
+E:\Users\serge\Desktop\Examples\Example005_TrueElse\obj\Debug\net6.0\Example005_TrueElse.csproj.AssemblyReference.cache
+E:\Users\serge\Desktop\Examples\Example005_TrueElse\obj\Debug\net6.0\Example005_TrueElse.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\serge\Desktop\Examples\Example005_TrueElse\obj\Debug\net6.0\Example005_TrueElse.AssemblyInfoInputs.cache
+E:\Users\serge\Desktop\Examples\Example005_TrueElse\obj\Debug\net6.0\Example005_TrueElse.AssemblyInfo.cs
+E:\Users\serge\Desktop\Examples\Example005_TrueElse\obj\Debug\net6.0\Example005_TrueElse.csproj.CoreCompileInputs.cache
+E:\Users\serge\Desktop\Examples\Example005_TrueElse\bin\Debug\net6.0\Example005_TrueElse.exe
+E:\Users\serge\Desktop\Examples\Example005_TrueElse\bin\Debug\net6.0\Example005_TrueElse.deps.json
+E:\Users\serge\Desktop\Examples\Example005_TrueElse\bin\Debug\net6.0\Example005_TrueElse.runtimeconfig.json
+E:\Users\serge\Desktop\Examples\Example005_TrueElse\bin\Debug\net6.0\Example005_TrueElse.dll
+E:\Users\serge\Desktop\Examples\Example005_TrueElse\bin\Debug\net6.0\Example005_TrueElse.pdb
+E:\Users\serge\Desktop\Examples\Example005_TrueElse\obj\Debug\net6.0\Example005_TrueElse.dll
+E:\Users\serge\Desktop\Examples\Example005_TrueElse\obj\Debug\net6.0\refint\Example005_TrueElse.dll
+E:\Users\serge\Desktop\Examples\Example005_TrueElse\obj\Debug\net6.0\Example005_TrueElse.pdb
+E:\Users\serge\Desktop\Examples\Example005_TrueElse\obj\Debug\net6.0\Example005_TrueElse.genruntimeconfig.cache
+E:\Users\serge\Desktop\Examples\Example005_TrueElse\obj\Debug\net6.0\ref\Example005_TrueElse.dll
